@@ -1,0 +1,240 @@
+[
+  {
+    "category": "latar",
+    "title": "Alat Latar Belakang",
+    "tools": [
+      {
+        "title": "Hapus Latar Belakang",
+        "description": "Ekstraksi subjek secara instan dengan isolasi helai rambut dan tepian rumit.",
+        "icon": "layers_clear",
+        "badge": "AI ON-DEVICE",
+        "footer": "Alpha Matte",
+        "keywords": "hapus latar belakang remove background transparent cutoff cut cutout siluet"
+      },
+      {
+        "title": "Ganti Latar Cerdas",
+        "description": "Gantikan latar belakang asli dengan gradien studio, pemandangan, atau tekstur 4K.",
+        "icon": "wallpaper",
+        "badge": "WASM Core",
+        "footer": "Light Matching",
+        "keywords": "ganti latar background swap studio backdrop gradien warna solid"
+      },
+      {
+        "title": "Latar Transparan",
+        "description": "Kustomisasi batas transparansi PNG/WebP dengan kontrol toleransi warna presisi.",
+        "icon": "opacity",
+        "badge": "Fast WASM",
+        "footer": "32-Bit RGBA",
+        "keywords": "latar transparan png export alpha channel transparan aset logo"
+      },
+      {
+        "title": "Efek Bokeh &amp; Lensa",
+        "description": "Simulasi blur optik apertur lebar f/1.4 dengan peta kedalaman otomatis.",
+        "icon": "lens_blur",
+        "badge": "Depth AI",
+        "footer": "Optic Bokeh",
+        "keywords": "bokeh blur kedalaman dof depth of field lensa f1.4 aperture tilt shift"
+      }
+    ]
+  },
+  {
+    "category": "editor",
+    "title": "Editor Foto &amp; Darkroom",
+    "tools": [
+      {
+        "title": "Potong &amp; Putar Presisi",
+        "description": "Pangkas rasio bebas, koreksi kemiringan horizon, dan distorsi perspektif keystone.",
+        "icon": "crop_rotate",
+        "badge": "WASM Pro",
+        "footer": "Zero Quality Loss",
+        "keywords": "potong putar crop rotate straighten perspektif rasio aspek tilt"
+      },
+      {
+        "title": "Penyesuaian Nada &amp; Kurva",
+        "description": "Kalibrasi kurva RGB parametrik, exposure, shadow/highlight, dan keseimbangan putih.",
+        "icon": "tune",
+        "badge": "Color Engine",
+        "footer": "LUT Supported",
+        "keywords": "penyesuaian nada kurva curves tone exposure kontras saturasi white balance hsv rgb"
+      },
+      {
+        "title": "Filter Film Analog",
+        "description": "Emulasi profil stok film legendaris 35mm dengan grain realistis dan efek halation optik.",
+        "icon": "filter_vintage",
+        "badge": "Film LUTs",
+        "footer": "48 Preset Klasik",
+        "keywords": "filter film analog vintage grain kodak portra fujifilm ilford grain halation"
+      },
+      {
+        "title": "Tipografi &amp; Tata Teks",
+        "description": "Integrasi teks editorial dengan kerning presisi, tracking mikro, dan efek kurva vertikal.",
+        "icon": "title",
+        "badge": "Vector SVG",
+        "footer": "Google Fonts Ready",
+        "keywords": "tipografi teks editorial judul font tulisan huruf vector text"
+      },
+      {
+        "title": "Tanda Air Otomatis",
+        "description": "Bubuhkan cap hak cipta atau tanda tangan grafis serentak ke ratusan foto sekaligus.",
+        "icon": "verified",
+        "badge": "Batch Mode",
+        "footer": "Batch 50+ Foto",
+        "keywords": "tanda air watermark hak cipta copyright logo cap transparan perlindungan"
+      },
+      {
+        "title": "Bingkai Garis &amp; Passepartout",
+        "description": "Tambahkan tepi bingkai galeri minimalis, border tipis rasio emas, atau format polaroid.",
+        "icon": "crop_original",
+        "badge": "Geometric",
+        "footer": "Galeri Standard",
+        "keywords": "bingkai garis frame borders passepartout bingkai foto gallery polaroid"
+      }
+    ]
+  },
+  {
+    "category": "ai",
+    "title": "AI &amp; Peningkatan Generatif",
+    "tools": [
+      {
+        "title": "Peningkat Resolusi 4K",
+        "description": "Rekonstruksi tekstur mikro dan ketajaman optik tanpa efek pikselasi atau artefak blur.",
+        "icon": "high_quality",
+        "badge": "AI 4X SCALE",
+        "footer": "Real-ESRGAN v3",
+        "keywords": "peningkat resolusi 4k super resolution upscaler tajam perjelas hd 8k detail"
+      },
+      {
+        "title": "Penghapus Objek Ajaib",
+        "description": "Usap objek pengganggu, pejalan kaki, atau goresan lalu isi latar secara fotorealistik.",
+        "icon": "cleaning_services",
+        "badge": "AI INPAINTING",
+        "footer": "Context Aware",
+        "keywords": "penghapus objek object removal inpainting hapus orang kabel noda watermark cleaner"
+      },
+      {
+        "title": "Peredam Derau AI",
+        "description": "Bersihkan bintik noise dari pemotretan minim cahaya ISO tinggi dengan presisi batas tajam.",
+        "icon": "blur_off",
+        "badge": "AI DENOISE",
+        "footer": "ISO 12800 Clean",
+        "keywords": "peredam derau denoise noise iso tinggi bintik grain reduction low light"
+      },
+      {
+        "title": "Restorasi Foto Tua",
+        "description": "Pulihkan foto arsip keluarga yang sobek, pudar warna, atau mengalami retakan kertas.",
+        "icon": "history_toggle_off",
+        "badge": "AI RESTORE",
+        "footer": "Face De-blur",
+        "keywords": "restorasi foto tua old photo restore scratch goresan sobek foto lawas perbaiki"
+      },
+      {
+        "title": "Pewarna Foto Monokrom",
+        "description": "Beri warna natural pada potret hitam-putih lawas dengan rekonstruksi rona kulit akurat.",
+        "icon": "palette",
+        "badge": "AI COLORIZE",
+        "footer": "Skin-Tone Model",
+        "keywords": "pewarna foto hitam putih colorize bw colorization vintage warna asli monokrom"
+      },
+      {
+        "title": "Generator Gambar AI",
+        "description": "Sintesis visual orisinal langsung dari deskripsi teks bahasa Indonesia maupun Inggris.",
+        "icon": "auto_awesome",
+        "badge": "DIFFUSION 2.1",
+        "footer": "512px - 1024px",
+        "keywords": "generator gambar ai prompt text to image buat gambar ilustrasi visual art sintesis"
+      }
+    ]
+  },
+  {
+    "category": "kreatif",
+    "title": "Alat Kreatif &amp; Bisnis",
+    "tools": [
+      {
+        "title": "Foto Produk AI &amp; Podium",
+        "description": "Tempatkan objek produk ke podium realistis dengan bayangan lembut dan refleksi alami.",
+        "icon": "shopping_bag",
+        "badge": "E-Com Pro",
+        "footer": "Shopee &amp; Tokopedia OK",
+        "keywords": "foto produk ai ecommerce jualan katalog bayangan podium studio product shot"
+      },
+      {
+        "title": "Pembuat Paspor &amp; Visa",
+        "description": "Ubah foto selfie menjadi pas foto standar imigrasi dengan latar biru/merah &amp; rasio biometrik.",
+        "icon": "badge",
+        "badge": "Standard ISO",
+        "footer": "Auto-Face Grid",
+        "keywords": "paspor visa pas foto 2x3 3x4 4x6 merah biru latar ijazah ktp lamaran"
+      },
+      {
+        "title": "Foto Profil Pro &amp; Headshot",
+        "description": "Optimasi pencahayaan wajah, latar kantor lembut, dan framing lingkaran untuk LinkedIn &amp; CV.",
+        "icon": "account_box",
+        "badge": "Studio Grade",
+        "footer": "LinkedIn Ready",
+        "keywords": "foto profil avatar linkedin cv headshot pro portrait profesional pfp resume"
+      },
+      {
+        "title": "Pembuat Kolase &amp; Moodboard",
+        "description": "Rangkai multiple foto ke dalam kisi dinamis dengan kontrol jarak gutter dan radius sudut.",
+        "icon": "dashboard_customize",
+        "badge": "Dynamic Layout",
+        "footer": "30+ Grid Templates",
+        "keywords": "kolase collage moodboard grid tata letak gabung foto montase multi image"
+      },
+      {
+        "title": "Preset Ukuran Media Sosial",
+        "description": "Ekspor gambar otomatis sesuai format resmi Instagram (1:1, 4:5, 9:16), TikTok, &amp; Banner YT.",
+        "icon": "aspect_ratio",
+        "badge": "Social Presets",
+        "footer": "Smart Center Fit",
+        "keywords": "preset sosmed instagram story feed tiktok youtube banner thumbnail ukuran"
+      }
+    ]
+  },
+  {
+    "category": "utilitas",
+    "title": "Utilitas Berkas &amp; Format",
+    "tools": [
+      {
+        "title": "Kompresor Lossless",
+        "description": "Pangkas ukuran berkas hingga 85% tanpa distorsi visual atau penurunan detail piksel.",
+        "icon": "compress",
+        "badge": "MozJPEG / WASM",
+        "footer": "Oxfip &amp; Guetzli",
+        "keywords": "kompresor lossless compress perkecil ukuran mb kb hemat ukuran web storage"
+      },
+      {
+        "title": "Konverter WEBP / PNG / TIFF",
+        "description": "Transkode format modern (AVIF, WebP, TIFF 16-bit, PNG) langsung di dalam peramban.",
+        "icon": "swap_horiz",
+        "badge": "Multi-Codec",
+        "footer": "12 Format Tersedia",
+        "keywords": "konverter format webp png tiff heic jpg avif ubah format berkas convert"
+      },
+      {
+        "title": "Pengubah Resolusi Lanczos3",
+        "description": "Interpolasi resampling matematis tajam untuk membesarkan atau mengecilkan dimensi citra.",
+        "icon": "photo_size_select_large",
+        "badge": "Lanczos3 DSP",
+        "footer": "Sub-Piksel Akurat",
+        "keywords": "pengubah resolusi lanczos3 resize dimensi piksel interpolation sampling bicubic"
+      },
+      {
+        "title": "Pipet Warna Hex &amp; RGB",
+        "description": "Ambil kode warna piksel mikroskopik lalu salin nilai Hex, RGB, atau HSL dengan sekali klik.",
+        "icon": "colorize",
+        "badge": "EyeDropper API",
+        "footer": "1x1 s/d 5x5 Grid",
+        "keywords": "pipet warna hex eyedropper sampling rgb cmyk hsl palet swatch"
+      },
+      {
+        "title": "Pembersih Metadata EXIF",
+        "description": "Hapus koordinat GPS, merk perangkat, dan stempel waktu untuk melindungi privasi Anda.",
+        "icon": "no_photography",
+        "badge": "Privacy First",
+        "footer": "Zero EXIF Data",
+        "keywords": "pembersih metadata exif scrub privasi gps lokasi kamera tanggal bersihkan data"
+      }
+    ]
+  }
+]
