@@ -25,11 +25,11 @@ export const SplashScreen: React.FC = () => {
       <div className="animate-fade-in-up flex flex-col items-center gap-space-md">
         <JevalleneLogo size={84} className="ring-2 ring-primary/30 studio-shadow-float" />
         <div className="flex flex-col items-center gap-1 text-center">
-          <span className="font-headline-lg text-headline-lg font-bold tracking-tight text-on-surface">
-            @jevelline
+          <span className="font-headline-lg text-headline-lg font-bold tracking-[0.22em] text-on-surface uppercase">
+            JEVELLINE
           </span>
-          <span className="font-code-stat text-code-stat tracking-widest text-primary uppercase">
-            by innssaan
+          <span className="font-code-stat text-code-stat tracking-widest text-primary">
+            by Innssan
           </span>
         </div>
         <div className="w-44 h-1 rounded-full bg-surface-container-high overflow-hidden mt-2">
